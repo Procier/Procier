@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Procier
 - 👀 Estou interessado em... python
-- 🌱 Atualmente estou atualizando...nothing
-Estou 💞️ - Pesquisando em...em idiomas
+- 🌱 Atualmente estou atualizando...nada
+- 💞️ Pesquisando em... linguagens
 - 📫 Como chegar até mim...
 
 <!---
