@@ -1,21 +1,13 @@
-# Procier — Portfólio
+# Procier
 
-Sou Eric Rodrigues da Costa (Procier), Fiscal de Consumo II, em transição para Dados e Programação.  
-Aqui registro meus estudos e projetos práticos, com foco em consistência e evolução.
+Fiscal de Consumo I (Itapema/SC) em transição para Dados e Programação.
 
-## Objetivo
-Construir um portfólio com projetos simples e bem documentados em:
-- Dados (Excel, SQL, Power BI, Python)
-- Programação (Python e automações)
+## Foco atual
+- Estudos e projetos em Excel, Python e análise de dados
+- Evolução contínua com documentação e consistência
 
-## Projetos
-*(Vou adicionar conforme eu finalizar. Por enquanto, este repositório serve como índice.)*
-
-### Dados
-- Em breve
-
-### Programação
-- Em breve
+## Repositórios principais
+- Portifólio
 
 ## Contato
-- E-mail: prosieric004@gmail.com
+- Email: prosieric004@gmail.com
