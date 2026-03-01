@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Procier
-- 👀 Estou interessado em... python
-- 🌱 Atualmente estou atualizando...nada
-- 💞️ Pesquisando em... linguagens
-- 📫 Como chegar até mim...
+# Procier — Portfólio
 
-<!---
-Procier/Procier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou Eric Rodrigues da Costa (Procier), Fiscal de Consumo I, em transição para Dados e Programação.  
+Aqui registro meus estudos e projetos práticos, com foco em consistência e evolução.
+
+## Objetivo
+Construir um portfólio com projetos simples e bem documentados em:
+- Dados (Excel, SQL, Power BI, Python)
+- Programação (Python e automações)
+
+## Projetos
+*(Vou adicionar conforme eu finalizar. Por enquanto, este repositório serve como índice.)*
+
+### Dados
+- Em breve
+
+### Programação
+- Em breve
+
+## Contato
+- E-mail: prosieric004@gmail.com
