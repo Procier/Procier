@@ -1,6 +1,6 @@
 # Procier — Portfólio
 
-Sou Eric Rodrigues da Costa (Procier), Fiscal de Consumo I, em transição para Dados e Programação.  
+Sou Eric Rodrigues da Costa (Procier), Fiscal de Consumo II, em transição para Dados e Programação.  
 Aqui registro meus estudos e projetos práticos, com foco em consistência e evolução.
 
 ## Objetivo
